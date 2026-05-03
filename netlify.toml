@@ -1,0 +1,9 @@
+[build]
+  base = "Palak_Portfolio"
+  command = "npm run build"
+  publish = "dist"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
