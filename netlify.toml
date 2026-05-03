@@ -1,5 +1,4 @@
 [build]
-  base = "Palak_Portfolio"
   command = "npm run build"
   publish = "dist"
 
